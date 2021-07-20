@@ -1,6 +1,4 @@
-Hey, How are you?
-
-- 👋 I’m Swastik Dasgaonkar
+- 👋 Hi, I’m Swastik Dasgaonkar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning & exploring new things
 - 📫 Reach me at my mail id: swastikd.intern@gmail.com 
