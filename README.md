@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Swastik R. Dasgaonkar *[ srdasg ]*
-- 👀 I’m interested in Data Science and Machine Learning
+- 👋 Hi, I’m Swastik R. Dasgaonkar **(alias *"srdasg"*: pronunciation 'Sir_Dasg')**
+- 👀 I’m interested in AI-Machine Learning and Data Science
 - 🌱 I’m currently learning & exploring new things
 - 📫 Reach me at my mail id: swastikd.intern@gmail.com or @[My Website](https://srdasg.github.io/Website/)
 - I love❤️ interacting with people around the world🌎, experiencing different cultures, and exploring the world's perspectives🔥 on design, business and technology💻.
