@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Swastik R. Dasgaonkar **(alias *"srdasg"*: pronunciation 'Sir_Dasg')**
 - 🌱 I’m currently learning & exploring new things
 - 📫 Reach me at my mail id: swastikd.intern@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srdasg&label=Profile%20Views&color=brightgreen&style=plastic"/> </p>
 
 <!---
 - 👀 I’m interested in AI-Machine Learning and Data Science
