@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swastik Dasgaonkar
-- 🌱 I’m learning & exploring new things everyday
-- 📫 Reach me at my mail id: swastik1840@gmail.com
-- Wish to connect with me... 🤟 Here, we go 🚀: [My Website](https://swasdas.github.io/)
+- 🌱 Learning new things everyday...
+- 📫 Reach me at: swastik1840@gmail.com
+- 🚀 Here, we go: [Personal Website](https://swasdas.github.io/)
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-dasgaonkar&label=Profile%20Views&color=brightgreen&style=plastic"/> </p>
