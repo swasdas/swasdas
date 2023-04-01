@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swastik Dasgaonkar
-- 🌱 I’m currently learning & exploring new things
-- 📫 Reach me at my mail id: swastik.sarc@gmail.com
+- 🌱 I’m learning & exploring new things everyday
+- 📫 Reach me at my mail id: swastik1840@gmail.com
 - Wish to connect with me... 🤟 Here, we go 🚀: [My Website](https://swasdas.github.io/)
 <hr>
 
