@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swastik Dasgaonkar alias Desai
 - 🌱 Learning new things everyday...
 - 📫 Reach me at: swastik1840@gmail.com
-- 🚀 Here, we go: [Personal Website](https://swasdas.github.io/)  (last updated in July'22)
+- 🚀 Here, we go: [Personal Website](https://swasdas.github.io/)  (last updated in Mar'23)
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-dasgaonkar&label=Profile%20Views&color=brightgreen&style=plastic"/> </p>
