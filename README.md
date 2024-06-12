@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Swastik Dasgaonkar alias Desai
 - 🌱 Learning new things everyday...
 - 📫 Reach me at: swastik1840@gmail.com
-- 🚀 Here, we go: [Personal Website](https://swasdas.github.io/)  (last updated in Mar'23)
+- 🚀 Here, we go: [Personal Website](https://swasdas.github.io/)  (last updated in March 2023)
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-dasgaonkar&label=Profile%20Views&color=brightgreen&style=plastic"/> </p>
 
 <!---
-- 👀 I’m interested in AI-Machine Learning and Data Science
+- 👀 I’m interested in DevOps, AI and Cloud.
 
 - I love❤️ interacting with people around the world🌎, experiencing different cultures, and exploring the world's perspectives🔥 on design, business and technology💻.
 
