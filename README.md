@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Swastik Dasgaonkar alias Desai
+- 👋 Hi, I’m Swastik Desai 
 - 🌱 Learning new things everyday...
 - 📫 Reach me at: swastik1840@gmail.com
 - 🚀 Here, we go: [Personal Website](https://swasdas.github.io/)  (last updated in March 2023)
