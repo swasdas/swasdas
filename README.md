@@ -6,7 +6,7 @@
 - 📫 You can Reach me at: swastik1840@gmail.com
 - 🚀 Here, we go: [Personal Website](https://swasdas.github.io/)
 
-<hr>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-dasgaonkar&label=Profile%20Views&color=brightgreen&style=plastic"/> </p>
 
