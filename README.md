@@ -4,9 +4,14 @@
 
 - 👀 I’m interested and skilled in Full Stack Development, DevOps, AI, CICD and Cloud
 
-- 💻 Skills: React.js, Node.js, Java, Spring Boot, PHP, ArgoCD, AWS, Python, Kubernetes, Docker, Helm, Jenkins, Express.js, HTML, CSS, Linux, Grafana, Prometheus, Bootstrap, jQuery, AJAX, MySQL
-
 - I love ❤️ interacting with people around the world 🌎, experiencing different cultures, and exploring the world's perspectives 🔥 on design, business and technology 💻
+
+- **Skills**:
+  1. **Programming Languages**: JavaScript, Python, Java, PHP, SQL
+  2. **Frameworks & Libraries**: React.js, Spring Boot, Express.js, Bootstrap, jQuery
+  3. **Tools & Technologies**: Git, Docker, Kubernetes, AWS, Jenkins
+  4. **Databases**: MySQL, MongoDB, PostgreSQL
+  5. **DevOps & Cloud**: ArgoCD, Helm, Grafana, Prometheus, Linux
 
 - 📫 You can Reach me at: swastik1840@gmail.com
 
