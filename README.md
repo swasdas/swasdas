@@ -9,9 +9,9 @@
 - **Skills**:
   1. **Programming Languages**: JavaScript, Python, Java, PHP, SQL
   2. **Frameworks & Libraries**: React.js, Spring Boot, Express.js, Bootstrap, jQuery
-  3. **Tools & Technologies**: Git, Docker, Kubernetes, AWS, Jenkins
-  4. **Databases**: MySQL, MongoDB, PostgreSQL
-  5. **DevOps & Cloud**: ArgoCD, Helm, Grafana, Prometheus, Linux
+  3. **DevOps & Cloud**: ArgoCD, Helm, Grafana, Prometheus, Linux 
+  4. **Tools & Technologies**: Git, Docker, Kubernetes, AWS, Jenkins
+  5. **Databases**: MySQL, MongoDB, PostgreSQL
 
 - 📫 You can Reach me at: swastik1840@gmail.com
 
