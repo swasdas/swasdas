@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Swastik Desai 
 
-- 🌱 Learning New Things every other week
+- 🌱 Learning New Things Every Other Week 😄
 
-- 👀 I’m interested and skilled in Full Stack Development, DevOps, AI, CICD and Cloud
+- 👀 I’m interested in and skilled in Full Stack Development, DevOps, AI, CICD and Cloud
 
 - I love ❤️ interacting with people around the world 🌎, experiencing different cultures, and exploring the world's perspectives 🔥 on design, business and technology 💻
 
