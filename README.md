@@ -7,7 +7,7 @@
 - I love ❤️ interacting with people around the world 🌎, experiencing different cultures, and exploring the world's perspectives 🔥 on design, business and technology 💻
 
 - **Skills**:
-  1. **Programming Languages**: JavaScript, Python, Java, PHP, SQL
+  1. **Programming Languages**: JavaScript, C++, Python, Java, PHP, SQL
   2. **Frameworks & Libraries**: React.js, Spring Boot, Express.js, Bootstrap, jQuery
   3. **DevOps & Cloud**: ArgoCD, Helm, Grafana, Prometheus, Linux 
   4. **Tools & Technologies**: Git, Docker, Kubernetes, AWS, Jenkins
