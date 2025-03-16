@@ -2,9 +2,9 @@
 
 - 🌱 Learning New Things Every Other Week 😄
 
-- 👀 I’m interested in and skilled in Full Stack Development, DevOps, AI, CICD and Cloud
+- 👀 I’m interested in and skilled in Full Stack Development, DevOps, AI, CICD and Cloud 🔥
 
-- I love ❤️ interacting with people around the world 🌎, experiencing different cultures, and exploring the world's perspectives 🔥 on design, business and technology 💻
+- I love ❤️ interacting with people around the world 🌎, experiencing different cultures 🎭, and exploring the world's perspectives on Design 🧑‍🎨, Business 📊 and Technology 🌐
 
 - **Skills**:
   1. **Programming Languages**: JavaScript, C++, Python, Java, PHP, SQL
