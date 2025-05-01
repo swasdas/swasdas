@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Swastik Desai 
+- 👋 Hi, I’m Swastik Desai, currently working as SDE @ Rakuten based in Tokyo, JP
 
 - 🌱 Learning New Things Every Other Week 😄
 
