@@ -8,7 +8,7 @@
 
 - **Skills**:
   1. **Programming Languages**: Java, JavaScript, Python, C++, PHP, SQL
-  2. **Frameworks & Libraries**: Spring Boot, React.js, Express.js, Bootstrap, jQuery
+  2. **Frameworks & Libraries**: Django, Spring Boot, React.js, Express.js, Bootstrap, jQuery
   3. **DevOps & Cloud**: ArgoCD, Helm, Grafana, Prometheus, Linux 
   4. **Tools & Technologies**: Kubernetes, Jenkins, Git, Docker, AWS
   5. **Databases**: MySQL, MongoDB, PostgreSQL
