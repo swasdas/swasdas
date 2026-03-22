@@ -1,22 +1,34 @@
-- 👋 Hi, I’m Swastik Desai, currently working as Software Engineer in Rakuten based in Tokyo, JP. I am also an alumnus of IIT Bombay.
+# 👋 Hi, I’m **Swastik Desai**
 
-- 🌱 Learning New Things Every Other Week 😄
+**Software Engineer at Rakuten (Tokyo 🇯🇵) | IIT Bombay Alumnus**
 
-- 👀 I’m interested in and skilled in Backend and Agentic AI 🔥
+- 🚀 I build scalable backend systems and explore the intersection of **distributed systems** and **Agentic AI**  
+- 🌱 Currently diving deeper into **LLMs, autonomous agents, and system design at scale** — always learning, always experimenting  
+- 👀 **Interests**:
+  - Backend Engineering & System Architecture ⚙️
+  - Agentic AI & Intelligent Systems 🤖🔥
+  - Product Thinking & Tech-Driven Business 📊
+- 🌍 I enjoy connecting with people across cultures, exchanging ideas, and exploring global perspectives on **technology, design, and innovation**
 
-- I love ❤️ interacting with people around the world 🌎, experiencing different cultures 🎭, and exploring the world's perspectives on Design 🧑‍🎨, Business 📊 and Technology 🌐
+---
 
-- **Skills**:
-  1. **Programming Languages**: Java, Python, JavaScript, C++, PHP, SQL
-  2. **Frameworks & Libraries**: Spring Boot, FastAPI, Django, React.js
-  3. **DevOps & Cloud**: Kubernetes, Linux, ArgoCD, Docker, Helm, Jenkins, AWS
-  4. **Tools & Technologies**: Git, Kafka, Grafana, Prometheus 
-  5. **Databases**: PostgreSQL, MySQL, Redis, Minio
+## 🛠️ Tech Stack
+- **Languages**: Java, Python, JavaScript, C++, SQL, PHP  
+- **Frameworks**: Spring Boot, FastAPI, Django, React  
+- **AI & Agentic Systems**: OpenAI SDK, Claude Agent SDK, LangGraph, CrewAI, RAG, Embeddings, Vector Databases, GitHub Copilot
+- **Core CS Fundamentals**: Data Structures & Algorithms, System Design, Problem Solving
+- **Cloud & DevOps**: Kubernetes, Docker, AWS, ArgoCD, Helm, Jenkins  
+- **Data & Infra**: Kafka, Redis, PostgreSQL, MySQL, MinIO
+- **Observability**: Grafana, Prometheus  
+- **Tools**: Git, Linux
+  
+---
 
-- 📫 You can Reach me at: swastik1840@gmail.com
+## 📫 Contact
+- 📧 swastik1840@gmail.com  
+- 🌐 https://swasdas.github.io/
 
-- 🚀 Here, we go: [Personal Website](https://swasdas.github.io/)
-
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-dasgaonkar&label=Profile%20Views&color=brightgreen&style=plastic"/> </p>
 
